@@ -4,11 +4,6 @@ def print_hi():
     print(2)
     print(5)
 
-    print(10)
-
-    print(3)
-    print(4)
-
 
 
 
