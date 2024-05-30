@@ -2,7 +2,12 @@
 def print_hi():
     print(1)
     print(2)
+
     print(10)
+
+    print(3)
+    print(4)
+
 
 
 
